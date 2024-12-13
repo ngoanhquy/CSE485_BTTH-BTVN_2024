@@ -19,6 +19,7 @@ class PostsTableSeeder extends Seeder
         'title' => $faker->sentence,
         'content' => $faker->paragraph
         ]);
+        
         }
     }
 }
